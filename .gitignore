@@ -1,0 +1,13 @@
+# Ignore all .DS_Store files
+*.DS_Store
+# Ignore all .vscode directories
+.vscode/
+# Ignore all node_modules directories
+node_modules/
+# Ignore all log files
+*.log
+# Ignore all output directories
+dist/
+output/
+# Ignore local image folder
+images/
